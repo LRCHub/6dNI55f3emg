@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "DREAMCATCHER",
+  "base_artist": "ナノ",
+  "createdAt": "2025-12-04T14:46:47.639968Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dreamcatcher - Instrumental",
+      "artist": "Metro Boomin",
+      "has_synced": true,
+      "path": "select/01_Dreamcatcher_-_Instrumental_Metro_Boomin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dreamcatcher (Instrumental)",
+      "artist": "Metro Boomin",
+      "has_synced": false,
+      "path": "select/02_Dreamcatcher_(Instrumental)_Metro_Boomin.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dreamcatcher",
+      "artist": "Metro Boomin feat. Swae Lee & Travis Scott",
+      "has_synced": true,
+      "path": "select/03_Dreamcatcher_Metro_Boomin_feat._Swae_Lee_&_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dreamcatcher (feat. Swae Lee & Travis Scott)",
+      "artist": "Metro Boomin",
+      "has_synced": true,
+      "path": "select/04_Dreamcatcher_(feat._Swae_Lee_&_Travis_Scott)_Metro_Boomin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dreamcatcher",
+      "artist": "Keke Palmer",
+      "has_synced": true,
+      "path": "select/05_Dreamcatcher_Keke_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dreamcatcher (feat. Miko) [Night Mix]",
+      "artist": "Robotaki",
+      "has_synced": true,
+      "path": "select/06_Dreamcatcher_(feat._Miko)_[Night_Mix]_Robotaki.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dreamcatcher (Night Mix) (feat. MIKO)",
+      "artist": "Robotaki",
+      "has_synced": true,
+      "path": "select/07_Dreamcatcher_(Night_Mix)_(feat._MIKO)_Robotaki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "DREAMCATCHER",
+      "artist": "STARSET",
+      "has_synced": true,
+      "path": "select/08_DREAMCATCHER_STARSET.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dreamcatcher",
+      "artist": "Bahramji & Maneesh De Moor",
+      "has_synced": true,
+      "path": "select/09_Dreamcatcher_Bahramji_&_Maneesh_De_Moor.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Dreamcatcher",
+      "artist": "Fox Amoore",
+      "has_synced": true,
+      "path": "select/10_The_Dreamcatcher_Fox_Amoore.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dreamcatcher",
+      "artist": "Our Last Night",
+      "has_synced": true,
+      "path": "select/11_Dreamcatcher_Our_Last_Night.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dreamcatcher",
+      "artist": "Edlan feat. Ella Noël",
+      "has_synced": true,
+      "path": "select/12_Dreamcatcher_Edlan_feat._Ella_Noël.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dreamcatcher",
+      "artist": "GFRIEND",
+      "has_synced": true,
+      "path": "select/13_Dreamcatcher_GFRIEND.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dreamcatcher (feat. Miko)",
+      "artist": "Robotaki feat. Miko",
+      "has_synced": true,
+      "path": "select/14_Dreamcatcher_(feat._Miko)_Robotaki_feat._Miko.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dreamcatcher (feat. Miko)",
+      "artist": "Robotaki",
+      "has_synced": true,
+      "path": "select/15_Dreamcatcher_(feat._Miko)_Robotaki.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dreamcatcher",
+      "artist": "Crystal Lake",
+      "has_synced": false,
+      "path": "select/16_Dreamcatcher_Crystal_Lake.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dreamcatcher",
+      "artist": "Erra",
+      "has_synced": false,
+      "path": "select/17_Dreamcatcher_Erra.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Dreamcatcher (Night Mix)",
+      "artist": "Robotaki",
+      "has_synced": true,
+      "path": "select/18_Dreamcatcher_(Night_Mix)_Robotaki.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Dreamcatcher",
+      "artist": "Grayscale",
+      "has_synced": true,
+      "path": "select/19_Dreamcatcher_Grayscale.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DREAMCATCHER",
+      "artist": "ナノ",
+      "has_synced": false,
+      "path": "select/pl_01_DREAMCATCHER_ナノ.txt"
+    }
+  ]
+}
