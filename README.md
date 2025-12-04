@@ -1,0 +1,52 @@
+# ナノ – DREAMCATCHER
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Do you see the light ahead?
+Will you face the night ahead?
+So far away, so far away
+shining ray
+Forever, so far away
+(arising)
+So far away, so far away
+find the way
+Forever, so far away
+(awakening)
+遠くの夜明けを見つめる瞳は希望に溢れた
+広がる暗闇のキャンバスに輝く虹を描いた
+LONG WAY ただ一途の
+NEW DAYただ一つの
+運命 貫いて ただ夢追い続けた
+This night, the stars will set your heart free
+Have faith,
+let the whole world know what you see
+走り出す心が今迷わず進むように
+どこまでも道を行く
+Beyond the night, a miracle is waiting
+Believe in the fantasies unfolding
+求める未来がずっと色褪せないように
+いつまでも駆け抜ける
+A dream beginning
+The more I try to beat reality
+The more I'm losing to the weakness
+in me (escaping)
+I couldn't see where the today would take me
+Just waking for tomorrow to ease the pain
+閉ざした記憶の狭間に潜んだ優しさに触れた
+流れる瞬く光に重ねた思い出の欠片
+どうやって歩んで来たって 間違いは無いと信じて
+どんな深い悲しみだって いつか癒えるはず
+This night, the stars will set your heart free
+Have faith,
+let the whole world know what you see
+離れた思いがきっと繋がっていくように
+その手を離さないでゆく
+Beyond the night, a miracle is waiting
+Believe in the fantasies unfolding
+限りない奇跡がいつか叶っていくように
+その目を逸らさないでゆく
+A dream beginning
+Just keep believing…
+A dream beginning…
+```
